@@ -1,1 +1,1 @@
-# postgresql-studies
+# PostgreSQL - Studies
